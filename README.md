@@ -5,3 +5,5 @@ This assignment is to ensure that you've got your environment set up correctly f
 The description of this assignment can be found [in Canvas at Assignment #1](https://canvas.harvard.edu/courses/54354/assignments/249110) (Spring 2019)
 
 You should build your application in this repo cloned for you in Github Classroom. You'll submit your Digital Ocean URL and github URL in Canvas.
+
+I added this.
